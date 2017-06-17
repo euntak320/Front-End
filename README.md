@@ -1,1 +1,6 @@
 # Front-End
+phone-project
+
+...
+npm install
+...
